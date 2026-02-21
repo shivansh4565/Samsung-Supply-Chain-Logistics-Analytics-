@@ -61,10 +61,11 @@ Provides revenue insights by platform, product profitability, and monthly sales 
 
 Add your screenshots inside the **assets** folder.
 
-![Overview](assets/overview.png)
-![Supplier](assets/supplier.png)
-![Inventory](assets/inventory.png)
-![Shipment](assets/shipment.png)
+![Overview](Overview.jpg)
+![Supplier](Supplier.jpg)
+![Inventory](Inventory.jpg)
+![Shipment](Shipment.jpg)
+![Customer](Customer.jpg)
 
 ---
 
@@ -73,10 +74,10 @@ Add your screenshots inside the **assets** folder.
 ```
 Samsung-SupplyChain-Selling-Analytics/
 │
-├── dashboard.pbix
+├── Samsung Supply Chain & Logistics Analytics Dashboard .pbix
 ├── Project_Report.pdf
 ├── Problem_Statement.md
-├── assets/
+├── 
 └── README.md
 ```
 
